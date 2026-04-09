@@ -1,0 +1,5 @@
+{
+  "name": "RecEngine AI",
+  "description": "An advanced personalized product recommendation system featuring hybrid filtering, explainable AI, and real-time dynamic pricing.",
+  "requestFramePermissions": []
+}
